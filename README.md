@@ -25,7 +25,7 @@ This repository contains the source code for an interactive and responsive regis
 
 ## Demo
 
-Explore the live demo of the registration form [here](#https://chirag640.github.io/RegistrationForm/).
+Explore the live demo of the registration form [here](https://chirag640.github.io/RegistrationForm/).
 
 ## Project Structure
 
@@ -48,8 +48,8 @@ Ensure you have the following prerequisites installed on your machine:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/registration-form.git
-    cd registration-form
+    git clone https://github.com/chirag640/RegistrationForm.git
+    cd RegistrationForm
     ```
 
 2. Open the `index.html` file in your preferred web browser.
@@ -74,7 +74,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or feedback, please contact us at [chaudharychirag640@gmail.com](mailto:chaudharychirag640@gmail.com).
+For any inquiries or feedback, please contact [chaudharychirag640@gmail.com](mailto:chaudharychirag640@gmail.com).
 
 ---
 

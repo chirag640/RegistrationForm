@@ -25,7 +25,7 @@ This repository contains the source code for an interactive and responsive regis
 
 ## Demo
 
-Explore the live demo of the registration form [here](#your-live-demo-url).
+Explore the live demo of the registration form [here]([#your-live-demo-url](https://chirag640.github.io/RegistrationForm/)).
 
 ## Project Structure
 
@@ -74,7 +74,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any inquiries or feedback, please contact us at [your-email@example.com](mailto:chaudharychirag640@gmail.com).
+For any inquiries or feedback, please contact us at [chaudharychirag640@gmail.com](mailto:chaudharychirag640@gmail.com).
 
 ---
 

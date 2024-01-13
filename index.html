@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<section>
+<form class="form" onsubmit="return validateForm()">
+    <p class="title">Register </p>
+    <p class="message">Signup now and get full access to our app. </p>
+    <div class="flex">
+        <label>
+            <input required="" placeholder="" type="text" class="input" id="firstname">
+            <span>Firstname</span>
+            <span class="error-message" id="firstnameError"></span>
+        </label>
+
+        <label>
+            <input required="" placeholder="" type="text" class="input" id="lastname">
+            <span>Lastname</span>
+            <span class="error-message" id="lastnameError"></span>
+        </label>
+    </div>  
+    
+    <label>
+        <input required="" placeholder="" type="email" class="input" id="email">
+        <span>Email</span>
+        <span class="error-message" id="emailError"></span>
+    </label> 
+        
+    <label>
+        <input required="" placeholder="" type="password" class="input" id="password">
+        <span>Password</span>
+        <span class="error-message" id="passwordError"></span>
+    </label>
+    <label>
+        <input required="" placeholder="" type="password" class="input" id="confirmPassword">
+        <span>Confirm password</span>
+        <span class="error-message" id="confirmPasswordError"></span>
+    </label>
+    <button type="submit" class="submit">Submit</button>
+    <p class="signin">Already have an account? <a href="#">Sign in</a></p>
+
+</form>
+</section>
+<script src="main.js"></script>
+</body>
+</html>

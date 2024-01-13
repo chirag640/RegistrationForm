@@ -25,7 +25,7 @@ This repository contains the source code for an interactive and responsive regis
 
 ## Demo
 
-Explore the live demo of the registration form [here]([#your-live-demo-url](https://chirag640.github.io/RegistrationForm/)).
+Explore the live demo of the registration form [here](#https://chirag640.github.io/RegistrationForm/).
 
 ## Project Structure
 
